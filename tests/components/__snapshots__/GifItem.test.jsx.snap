@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en <GifItem.jsx /> Debe de hacer match con el Snapshot 1`] = `
+<div>
+  <div
+    class="card"
+  >
+    <img
+      alt="Madokami"
+      src="http://madokami.co.js/madoka.jpg"
+    />
+    <p>
+      Madokami
+    </p>
+  </div>
+</div>
+`;
